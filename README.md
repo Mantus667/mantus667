@@ -1,9 +1,8 @@
 # Hello there! My name is David Brendel. 👋
 
-I'm a Senior Software Developer, Umbraco fanatic, Writer from Germany.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about Umbraco, Episerver, JAMstack, Headless CMS, .Net, Sustainability, S.E.O, Web Performance.
-When I'm not developing and building things, you can find me on my motorcycle, writing an article, watching movies/series, reading or gaming. But most of my days are spent working on projects using Umbraco and Episerver
+I'm a Senior Software Developer and Umbraco fanatic from Germany.
+I currently passionate about Umbraco, Episerver, Headless CMS, .Net and CQRS.
+When I'm not developing and building things, you can find me on my motorcycle, writing an article, watching movies/series, reading or gaming. But most of my days are spent working on projects using Umbraco and Episerver.
 
 ## 💼 Where i am currently working at/as
 
